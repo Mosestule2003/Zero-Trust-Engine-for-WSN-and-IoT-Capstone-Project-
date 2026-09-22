@@ -217,7 +217,7 @@ By signing below, each team member confirms that they have reviewed this Teamwor
 
 ### Member 1 – Project Lead
 
-**Name:** Magdala Nwukke  
+**Name:** Magdala Nwuke  
 **Date:** 9/20/2026
 
 ### Member 2 – Technical / Code Lead
